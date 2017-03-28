@@ -1,0 +1,104 @@
+h1{
+  text-align: center;
+
+}
+#alex {
+  float:left;
+  width: 425px;
+}
+#keaton {
+  float:right;
+  width: 425px;
+  text-align: justify;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+#alex a img {
+  height: 100px;
+  width: 100px;
+  float: left;
+  border: yellow solid 2px;
+  margin: 10px;
+}
+#profile {
+  height: 100px;
+  width: 100px;
+  float: left;
+  border: #d4e7f9 solid 2px;
+  margin: 10px;
+}
+
+#alex h2 {
+  background-color: #8abf88;
+  color: red;
+  text-align: center;
+}
+
+#alex p:hover {
+  background-color: #ff00ff;
+}
+
+#keaton h2 {
+  background-color: grey;
+  text-align: center;
+  color: #00ff00;
+}
+
+#alex .contact_info {
+  text-align: left;
+  margin-left: 120px;
+  margin-top: 55px;
+  margin-right: 10px;
+  border: orange dashed 2px;
+  background-color: #ffed7c;
+}
+
+#keaton  .contact_info {
+  text-align: left;
+  margin-left: 85px;
+  background-color: #d4e7f9;
+  margin-left: 120px;
+  margin-right: 10px;
+  margin-top: 55px;
+  border: #00ff00 dashed 2px;
+}
+
+#alex p {
+  clear: both;
+  border: red solid 2px;
+  padding: 10px;
+  background-color: #ddfaf9;
+  margin: 15px;
+}
+
+#keaton  p {
+  clear: both;
+  border: red solid 2px;
+  padding: 10px;
+  background-color: #dde8f2;
+  margin: 15px;
+}
+
+.activities {
+  padding: 10px;
+}
+
+#fa, #fa2 {
+  margin-left: 30px;
+}
+
+section {
+  background-color: #ADD8E6;
+  margin: 15px;
+
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}

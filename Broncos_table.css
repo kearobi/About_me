@@ -1,0 +1,31 @@
+th, td {
+  text-align: left;
+  border: black 2px solid;
+}
+table {
+  margin:auto;
+  border-collapse: collapse;
+  clear:both;
+}
+
+h1 {
+  text-align: center;
+  background-color: #08047e;
+  color: white;
+  float:left;
+}
+img {
+  height: 50px;
+  width: 50px;
+  float:left;
+}
+
+header:after {
+  content:" ";
+  display: table;
+  clear: both;
+}
+
+header {
+  margin-left: 240px;
+}
